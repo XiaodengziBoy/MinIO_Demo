@@ -1,0 +1,3 @@
+D:\4.代码\MinIO\MinIOProject\MinIOProject\bin\Debug\net5.0\MinIOProject.exe
+D:\4.代码\MinIO\MinIOProject\MinIOProject\obj\Debug\net5.0\MinIOProject.AssemblyInfoInputs.cache
+D:\4.代码\MinIO\MinIOProject\MinIOProject\obj\Debug\net5.0\MinIOProject.AssemblyInfo.cs

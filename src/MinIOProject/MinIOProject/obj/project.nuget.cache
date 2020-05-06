@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NC8+ALnSb1j/sObhyp/p2ndqi+0jydz5B2r8KlUUt4WNmgts6n1AGmW7t1QyjDxdViRUeqiQl06cQqntQXtYcw==",
+  "success": true,
+  "projectFilePath": "D:\\4.代码\\MinIO\\MinIOProject\\MinIOProject\\MinIOProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.core\\3.3.106.17\\awssdk.core.3.3.106.17.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.s3\\3.3.110.63\\awssdk.s3.3.3.110.63.nupkg.sha512"
+  ],
+  "logs": []
+}
